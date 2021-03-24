@@ -10,6 +10,8 @@ import ComponentsModule from './components/components';
 import ComponentsModule2 from './components/component2';
 import Service1 from './services/srv.service1';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';
+import './css/style.css';
 
 angular.module('app', [
   ComponentsModule.name,
