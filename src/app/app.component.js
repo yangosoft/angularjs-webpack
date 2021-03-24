@@ -3,6 +3,7 @@ import './app.component.css';
 
 const AppComponent = {
   template
+
 };
 
 export default AppComponent;
